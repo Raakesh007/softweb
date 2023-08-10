@@ -92,7 +92,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by JOTHIJO</footer></div>
+                Copyright &copy;2023 Developed by Rakesh</footer></div>
             </div>
         </div>
     </body>
@@ -299,7 +299,7 @@ products.html
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by JOTHIJO</footer></div>
+                Copyright &copy;2023 Developed by Rakesh</footer></div>
             </div>
         </div>
     </body>
@@ -507,7 +507,7 @@ people.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by JOTHIJO</footer></div>
+                Copyright &copy;2023 Developed by Rakesh</footer></div>
             </div>
         </div>
     </body>
@@ -576,7 +576,7 @@ contact.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by JOTHIJO</footer></div>
+                Copyright &copy;2023 Developed by Rakesh</footer></div>
             </div>
         </div>
     </body>
@@ -717,6 +717,11 @@ styles.css
         }
 ```
 ## OUTPUT:
+![rakesh contact](https://github.com/Raakesh007/softweb/assets/138850267/29bbf524-0ea5-4230-a9ea-24c94c047757)
+![rakesh home](https://github.com/Raakesh007/softweb/assets/138850267/c00b9e13-2a04-406f-8375-d746317d412a)
+![rakesh people](https://github.com/Raakesh007/softweb/assets/138850267/4eba7e76-0c3f-4960-9159-03e95770548b)
+![rakesh products](https://github.com/Raakesh007/softweb/assets/138850267/2c1acb73-bd1a-444f-a546-873b617c4db8)
+
 
 ## HTML VALIDATOR:
 
